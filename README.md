@@ -20,7 +20,11 @@ Tech Stack
 If you want to pull this down and test the workflows in your own environment, here is how to set it up:
 
 1. Clone this repo to your local machine:
-```bash
-   git clone [https://github.com/om3692/botpress-agent.git](https://github.com/om3692/botpress-agent.git)
+
+
+
+
+
+
 <img width="2232" height="1312" alt="image" src="https://github.com/user-attachments/assets/35d85626-bd06-4ab2-b6ce-7ca740c5ccbe" />
 <img width="2237" height="1397" alt="image" src="https://github.com/user-attachments/assets/03b3768f-6b78-4c8a-b9b0-5fbfaa227a96" />
