@@ -22,3 +22,4 @@ If you want to pull this down and test the workflows in your own environment, he
 1. Clone this repo to your local machine:
 ```bash
    git clone [https://github.com/om3692/botpress-agent.git](https://github.com/om3692/botpress-agent.git)
+<img width="2232" height="1312" alt="image" src="https://github.com/user-attachments/assets/35d85626-bd06-4ab2-b6ce-7ca740c5ccbe" />
