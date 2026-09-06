@@ -22,3 +22,4 @@ If you want to pull this down and test the workflows in your own environment, he
 1. Clone this repo to your local machine:
 ```bash
    git clone [https://github.com/om3692/botpress-agent.git](https://github.com/om3692/botpress-agent.git)
+https://cdn.botpress.cloud/webchat/v3.7/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/08/02/20260508025453-8PFNX14G.json
